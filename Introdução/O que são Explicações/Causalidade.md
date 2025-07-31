@@ -1,0 +1,3 @@
+Explicações de natureza causal, ou na forma de "X foi predito por conta de Y", são uteis pois dão uma noção do que predições de contrastem devem ser: remova X e a resposta não sera mais Y. É fácil dizer "Esta chovendo porque ha nuvens no céu". Por outro lado, esta afirmação nem sempre é verdadeira pois ha casos de chuvas em céus limpos em algumas circunstancias.
+
+Estabelecer casualidade com explicações focadas em dados é extremamente difícil (mesmo para *time-series*). Não há técnicas de causalidade propostas que são uteis na pratica e tenham um alto nível de garantia em suas analises. Mesmo se você quiser estabelecer uma causa relacional entre seu modelo e os dados, e recomendado que haja uma exploração dos [Modelos de causa e efeito]()

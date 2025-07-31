@@ -1,0 +1,3 @@
+Cenários de *contraste* ou *contrafactuais* são cenários que buscam provar o oposto e plausível do  cenário pelo qual X **não** aconteceu explorando o que teria que ser diferente para que o resultado oposto ocorresse.
+
+Se estamos buscando explicar, "Porque choveu hoje ?" também podemos encontrar a explicação  *contrafactual* de : "Porque **não** choveu hoje?" Enquanto  a primeira justificativa pelo qual choveu incluir dados de temperatura, pressão barométrica e umidade, pode ser mais fácil justificar a falta da chuva pela ausência de nuvens no céu, implicando que as nuvens fazem parte a explicação do porque chove.

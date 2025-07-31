@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4f71ed6bbc2588b4","type":"file","file":"Introdução/Visão Geral de Explicabilidade.md","x":-840,"y":-334,"width":400,"height":480,"color":"2"},
+		{"id":"5f98b66304374d24","type":"file","file":"Introdução/O que são Explicações/Contraste.md","x":-1560,"y":40,"width":400,"height":400,"color":"2"},
+		{"id":"7e90dac7cb8d66e9","type":"file","file":"Introdução/O que são Explicações/Causalidade.md","x":-1560,"y":506,"width":400,"height":400,"color":"2"},
+		{"id":"c62cbe8b987bf769","type":"text","text":"## Interpretabilidade vs Explicabilidade","x":-890,"y":820,"width":500,"height":60,"color":"2"},
+		{"id":"baa2378bc1b21460","type":"text","text":"# Introdução","x":140,"y":-126,"width":220,"height":64,"color":"2"},
+		{"id":"ed341012b68ff74c","type":"file","file":"Introdução/Interpretabilidade vs Explicabilidade/Interpretabilidade.md","x":-1320,"y":1120,"width":400,"height":400,"color":"2"},
+		{"id":"38816bd3b2f11690","type":"file","file":"Introdução/Interpretabilidade vs Explicabilidade/Explicabilidade.md","x":-440,"y":1120,"width":400,"height":400,"color":"2"},
+		{"id":"e3bc20b12eea0f1d","type":"file","file":"Introdução/O que são Explicações/Explicações.md","x":-840,"y":306,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"ae0b4a4b739fa7c4","fromNode":"4f71ed6bbc2588b4","fromSide":"bottom","toNode":"e3bc20b12eea0f1d","toSide":"top"},
+		{"id":"201c9e89dc6ffa16","fromNode":"baa2378bc1b21460","fromSide":"left","toNode":"4f71ed6bbc2588b4","toSide":"right"},
+		{"id":"bf28cb73b9fe58ce","fromNode":"e3bc20b12eea0f1d","fromSide":"left","toNode":"5f98b66304374d24","toSide":"right"},
+		{"id":"bac863559be87492","fromNode":"e3bc20b12eea0f1d","fromSide":"left","toNode":"7e90dac7cb8d66e9","toSide":"right"},
+		{"id":"6a774b9e38353ffc","fromNode":"e3bc20b12eea0f1d","fromSide":"bottom","toNode":"c62cbe8b987bf769","toSide":"top"},
+		{"id":"36714b05a8f894fc","fromNode":"c62cbe8b987bf769","fromSide":"bottom","toNode":"ed341012b68ff74c","toSide":"top"},
+		{"id":"7c87e0cf5fa90893","fromNode":"c62cbe8b987bf769","fromSide":"bottom","toNode":"38816bd3b2f11690","toSide":"top"}
+	]
+}

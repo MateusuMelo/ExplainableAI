@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "efef5f7f437516d0",
+        "id": "4126ef3fecf2b190",
         "type": "tabs",
         "children": [
           {
-            "id": "62f03a2c4f7d999f",
+            "id": "6ed5d475d13b7256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "canvas",
+              "state": {
+                "file": "roadmap.canvas",
+                "viewState": {
+                  "x": -640,
+                  "y": 506,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "roadmap"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introdução/Visão Geral de Explicabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Visão Geral de Explicabilidade"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introdução/Visão Geral de Explicabilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Visão Geral de Explicabilidade"
             }
           },
           {
@@ -136,12 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Introdução/Visão Geral de Explicabilidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Visão Geral de Explicabilidade"
             }
           }
         ]
@@ -161,10 +171,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6b3ebfd4777e505e",
+  "active": "6ed5d475d13b7256",
   "lastOpenFiles": [
+    "Introdução/O que são Explicações/Explicações.md",
+    "roadmap.canvas",
+    "Introdução/O que são Explicações/Contraste.md",
+    "Introdução/Interpretabilidade vs Explicabilidade/Interpretabilidade.md",
+    "Introdução/Visão Geral de Explicabilidade.md",
+    "Introdução/Interpretabilidade vs Explicabilidade/Explicabilidade.md",
+    "Introdução/O que são Explicações/Causalidade.md",
+    "Sem título 1.canvas",
+    "Introdução/O que são Explicações/Pasted image 20250730145514.png",
+    "Introdução/O que são Explicações/Pasted image 20250730145456.png",
+    "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
+    "Introdução/O que são Explicações",
+    "[[.md",
+    "Introdução/Captura de tela_2025-07-30_12-50-58.jpg",
+    "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124855.png",
+    "Sem ttulo.md",
+    "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124706.png",
+    "Introdução/Interpretabilidade vs Explicabilidade/imgs",
+    "Introdução/Interpretabilidade.md",
+    "Introdução/Explicabilidade",
+    "Introdução/Interpretabilidade vs Explicabilidade",
     "Introdução",
-    "Sem título.md",
     "2025-07-30.md",
     "Bem-vindo.md",
     "crie um link.md"
