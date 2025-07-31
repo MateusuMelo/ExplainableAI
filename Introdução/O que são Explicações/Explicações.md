@@ -4,6 +4,3 @@ Quando um modelo faz uma predição, métodos de Explainable AI (XAI) geram uma 
 
 Ao montar nosso próprios modelos mentais, buscar uma explicação pura pode ser insatisfatória na maioria dos casos, por isso também buscamos explicações que fornecem **[[Contraste]]** da situação original. Também deveríamos  buscar cenários de explicação de  [[Causalidade]].
 
-## Tipos de Explicação
-
-Antes de entender XAI, é necessário se perguntar qual a diferença entre [[Explicabilidade]] e [[Interpretabilidade]] 
