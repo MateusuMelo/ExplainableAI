@@ -1,0 +1,3 @@
+**Procura explicar sobre o comportamento do modelo em todas as predições**, um pouco mais aprofundado que somente uma analise estatística sobre o comportamento do modelo. Uma das maneiras mais comuns de gerar explicabilidade global são usando todas as predições (geralmente no dataset de treino ou validação) e agregando essas explicações todas, ou gerando variações nas entradas ou pesos através de uma ampla gama de valores.
+
+São uteis também, para servir de guia para comparar o comportamento de modelos em produção com sua performance original.
