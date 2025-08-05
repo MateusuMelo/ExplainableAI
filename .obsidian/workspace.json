@@ -22,35 +22,6 @@
             }
           },
           {
-            "id": "52ce2fb239e734a8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "roadmap.canvas",
-                "viewState": {
-                  "x": -1540,
-                  "y": 2363,
-                  "zoom": -2.769771739249448
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "roadmap"
-            }
-          },
-          {
-            "id": "682881da4b8e3a82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-05 16.06.08.excalidraw"
-            }
-          },
-          {
             "id": "0cf7285fad4c5c0b",
             "type": "leaf",
             "state": {
@@ -63,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,21 +220,24 @@
         "type": "window",
         "children": [
           {
-            "id": "0dedb7795195f153",
+            "id": "2014e5fe4e577542",
             "type": "tabs",
             "children": [
               {
-                "id": "48059df5b6ae6193",
+                "id": "52ce2fb239e734a8",
                 "type": "leaf",
                 "state": {
-                  "type": "webviewer",
+                  "type": "canvas",
                   "state": {
-                    "url": "https://www.youtube.com/watch?v=P_Q6avJGoWI",
-                    "title": "The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube",
-                    "mode": "webview"
+                    "file": "roadmap.canvas",
+                    "viewState": {
+                      "x": -724.4456010065422,
+                      "y": 288.0747361301216,
+                      "zoom": -0.5999999999999999
+                    }
                   },
-                  "icon": "globe-2",
-                  "title": "The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "roadmap"
                 }
               }
             ]
@@ -281,16 +255,16 @@
   },
   "active": "0cf7285fad4c5c0b",
   "lastOpenFiles": [
+    "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
-    "Introdução/Visão Geral de Explicabilidade.md",
     "roadmap.canvas",
+    "Introdução/Visão Geral de Explicabilidade.md",
     "Pasted image 20250804105638.png",
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
     "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
     "202508051605.md",
     "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Excalidraw",
-    "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introdução/Temas Através da Explicabilidade/figure_0202.png",
