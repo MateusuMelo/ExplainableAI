@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Introdução/Interpretabilidade vs Explicabilidade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"Introdução/O que são Explicações\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4811270
+      }
+    },
+    {
+      "query": "path:\"Introdução/Tipos de Explicabilidade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Introdução/Temas Através da Explicabilidade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 2.00392617927889,
+  "lineSizeMultiplier": 2.92010118284167,
   "collapse-forces": false,
-  "centerStrength": 0.707781103035485,
-  "repelStrength": 14.2468291292575,
-  "linkStrength": 0.639375801624626,
-  "linkDistance": 250,
-  "scale": 1.5,
+  "centerStrength": 0.753384637309391,
+  "repelStrength": 17.0742482542397,
+  "linkStrength": 0.917557360695454,
+  "linkDistance": 30,
+  "scale": 0.6666666666666666,
   "close": true
 }

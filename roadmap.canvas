@@ -16,7 +16,11 @@
 		{"id":"e81aed6546fb89bc","type":"file","file":"Introdução/Tipos de Explicabilidade/Explicabilidade Local.md","x":-2270,"y":2120,"width":400,"height":400,"color":"2"},
 		{"id":"867e7512eb3d384d","type":"file","file":"Introdução/Tipos de Explicabilidade/Intrinsic Explainability.md","x":-3440,"y":2120,"width":400,"height":400,"color":"2"},
 		{"id":"a9758712a2d29a8c","type":"text","text":"# Temas Através da Explicabilidade","x":-894,"y":3000,"width":508,"height":50,"color":"1"},
-		{"id":"4b6948d98e9340ee","type":"file","file":"Introdução/Tipos de Explicabilidade/Explicabilidade Cohort.md","x":-1130,"y":2120,"width":400,"height":400,"color":"2"}
+		{"id":"4b6948d98e9340ee","type":"file","file":"Introdução/Tipos de Explicabilidade/Explicabilidade Cohort.md","x":-1130,"y":2120,"width":400,"height":400,"color":"2"},
+		{"id":"fb901571f92deade","type":"file","file":"Introdução/Temas Através da Explicabilidade/Feature Attributions.md","x":-840,"y":3460,"width":400,"height":400,"color":"4"},
+		{"id":"1804a21d84c2d783","type":"file","file":"Introdução/Temas Através da Explicabilidade/Shapley Values.md","x":-1429,"y":4060,"width":400,"height":400,"color":"4"},
+		{"id":"efe6f07ff64438ca","type":"file","file":"Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md","x":-1429,"y":4660,"width":400,"height":400,"color":"4"},
+		{"id":"805db409800aa8de","type":"file","file":"Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md","x":-1960,"y":4660,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"ae0b4a4b739fa7c4","fromNode":"4f71ed6bbc2588b4","fromSide":"bottom","toNode":"e3bc20b12eea0f1d","toSide":"top"},
@@ -35,6 +39,10 @@
 		{"id":"f2203ab88c8e3e8b","fromNode":"6eafa2a68d71132e","fromSide":"bottom","toNode":"4b6948d98e9340ee","toSide":"top"},
 		{"id":"647a7243c5ba8658","fromNode":"6eafa2a68d71132e","fromSide":"bottom","toNode":"da0023986e246cb2","toSide":"top"},
 		{"id":"18f1a04592192e2b","fromNode":"6eafa2a68d71132e","fromSide":"bottom","toNode":"e81aed6546fb89bc","toSide":"top"},
-		{"id":"b833bab00977b9f1","fromNode":"6eafa2a68d71132e","fromSide":"bottom","toNode":"a9758712a2d29a8c","toSide":"top"}
+		{"id":"b833bab00977b9f1","fromNode":"6eafa2a68d71132e","fromSide":"bottom","toNode":"a9758712a2d29a8c","toSide":"top"},
+		{"id":"2d718e6c5a714e40","fromNode":"a9758712a2d29a8c","fromSide":"bottom","toNode":"fb901571f92deade","toSide":"top"},
+		{"id":"b16b6d01414e2946","fromNode":"fb901571f92deade","fromSide":"bottom","toNode":"1804a21d84c2d783","toSide":"top"},
+		{"id":"27d285163278d881","fromNode":"1804a21d84c2d783","fromSide":"bottom","toNode":"805db409800aa8de","toSide":"top"},
+		{"id":"4260753cf5e0d2ce","fromNode":"1804a21d84c2d783","fromSide":"bottom","toNode":"efe6f07ff64438ca","toSide":"top"}
 	]
 }

@@ -8,52 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ed5d475d13b7256",
+            "id": "1e22f7445b0f4cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature Attributions"
+            }
+          },
+          {
+            "id": "d812cb5e9634afe3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "roadmap.canvas",
                 "viewState": {
-                  "x": -755.4910850733897,
-                  "y": 1725.7761413308108,
-                  "zoom": -0.9999999999999999
+                  "x": -1540,
+                  "y": 2363,
+                  "zoom": -2.769771739249448
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "roadmap"
             }
-          },
-          {
-            "id": "be822dfd753849c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdução/Tipos de Explicabilidade/Post Hoc Explainability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Post Hoc Explainability"
-            }
-          },
-          {
-            "id": "703e8de5dc841139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdução/Tipos de Explicabilidade/Modelo Agnóstico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelo Agnóstico"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +168,37 @@
               "icon": "lucide-list",
               "title": "Sumário de Modelo Agnóstico"
             }
+          },
+          {
+            "id": "87c24ea57372a3a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "9a7e35822c93ee5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,22 +207,81 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "703e8de5dc841139",
+  "floating": {
+    "id": "e2083e590ba72084",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1b5e905507761523",
+        "type": "window",
+        "children": [
+          {
+            "id": "0dedb7795195f153",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48059df5b6ae6193",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=P_Q6avJGoWI",
+                    "title": "The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes - YouTube"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 608,
+        "y": 299,
+        "width": 1026,
+        "height": 802,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d812cb5e9634afe3",
   "lastOpenFiles": [
-    "Introdução/Tipos de Explicabilidade/Modelo Agnóstico.md",
-    "Introdução/Tipos de Explicabilidade/Post Hoc Explainability.md",
+    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+    "Introdução/Visão Geral de Explicabilidade.md",
+    "Pasted image 20250804105638.png",
+    "roadmap.canvas",
+    "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
+    "Excalidraw",
+    "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
+    "Introdução/Temas Através da Explicabilidade/figure_0202.png",
+    "Sem título.canvas",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley",
+    "Introdução/Tipos de Explicabilidade/Tipos de Explicabilidade.md",
+    "Introdução/Temas Através da Explicabilidade",
+    "Introdução/Tipos de Explicabilidade/Explicabilidade Cohort.md",
+    "Introdução/Tipos de Explicabilidade/Explicabilidade global.md",
+    "Introdução/Tipos de Explicabilidade/Explicabilidade Local.md",
+    "Introdução/Tipos de Explicabilidade/Modelo especificos.md",
     "Introdução/Tipos de Explicabilidade/Modelo Agnóstico.md",
     "Introdução/Tipos de Explicabilidade/Intrinsic Explainability.md",
+    "Introdução/Tipos de Explicabilidade/Post Hoc Explainability.md",
+    "2025-08-01.md",
     "Introdução/Tipos de Explicabilidade/Explicabilidade de Pré-modelagem.md",
     "Introdução/Tipos de Explicabilidade/Modelo especifico.md",
-    "Introdução/Tipos de Explicabilidade/Tipos de Explicabilidade.md",
-    "roadmap.canvas",
     "Introdução/Interpretabilidade vs Explicabilidade/Interpretabilidade.md",
     "Introdução/Interpretabilidade vs Explicabilidade/Explicabilidade.md",
-    "Introdução/Visão Geral de Explicabilidade.md",
     "Introdução/O que são Explicações/Explicações.md",
     "Introdução/Tipos de Explicabilidade",
     "Introdução/O que são Explicações/Contraste.md",
@@ -231,9 +300,6 @@
     "Introdução/Interpretabilidade.md",
     "Introdução/Explicabilidade",
     "Introdução/Interpretabilidade vs Explicabilidade",
-    "Introdução",
-    "2025-07-30.md",
-    "Bem-vindo.md",
-    "crie um link.md"
+    "Introdução"
   ]
 }

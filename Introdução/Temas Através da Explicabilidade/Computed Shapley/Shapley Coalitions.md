@@ -1,0 +1,1 @@
+Shapley values desta maneira **são representados pelo agrupamento de features de um conjunto de dados em vários subconjuntos sobrepostos chamados coalitions** (coalizões). **Para cada coalizão, um valor de predição e gerado usando somente as features daquela coalizão** depois comparada com a predição da coalizão que possui uma feature adicional.
