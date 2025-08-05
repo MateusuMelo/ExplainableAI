@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "0cf7285fad4c5c0b",
+            "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md"
+                "file": "Drawing 2025-08-05 16.15.51.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-05 16.06.08.excalidraw"
+              "title": "Drawing 2025-08-05 16.15.51.excalidraw"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
+                "file": "Drawing 2025-08-05 16.15.51.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-08-05 16.06.08.excalidraw"
+              "title": "Sumário de Drawing 2025-08-05 16.15.51.excalidraw"
             }
           },
           {
@@ -253,10 +253,11 @@
       }
     ]
   },
-  "active": "0cf7285fad4c5c0b",
+  "active": "94958bc51db8ccd7",
   "lastOpenFiles": [
-    "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
+    "Drawing 2025-08-05 16.15.51.excalidraw.md",
+    "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "roadmap.canvas",
     "Introdução/Visão Geral de Explicabilidade.md",
     "Pasted image 20250804105638.png",
