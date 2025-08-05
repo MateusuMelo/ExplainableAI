@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d812cb5e9634afe3",
+            "id": "52ce2fb239e734a8",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -30,16 +30,40 @@
                 "file": "roadmap.canvas",
                 "viewState": {
                   "x": -1540,
-                  "y": -4487.008000000001,
+                  "y": 2363,
                   "zoom": -2.769771739249448
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "roadmap"
             }
+          },
+          {
+            "id": "682881da4b8e3a82",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-05 16.06.08.excalidraw"
+            }
+          },
+          {
+            "id": "0cf7285fad4c5c0b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-05 16.06.08.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução/Tipos de Explicabilidade/Modelo Agnóstico.md",
+                "file": "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelo Agnóstico"
+              "title": "Sumário de Drawing 2025-08-05 16.06.08.excalidraw"
             }
           },
           {
@@ -194,11 +218,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,13 +279,16 @@
       }
     ]
   },
-  "active": "d812cb5e9634afe3",
+  "active": "0cf7285fad4c5c0b",
   "lastOpenFiles": [
-    "roadmap.canvas",
-    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+    "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
     "Introdução/Visão Geral de Explicabilidade.md",
+    "roadmap.canvas",
     "Pasted image 20250804105638.png",
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
+    "202508051605.md",
+    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Excalidraw",
     "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md",
@@ -291,13 +319,10 @@
     "Introdução/O que são Explicações/Pasted image 20250730145456.png",
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
     "Introdução/O que são Explicações",
-    "[[.md",
     "Introdução/Captura de tela_2025-07-30_12-50-58.jpg",
     "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124855.png",
-    "Sem ttulo.md",
     "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124706.png",
     "Introdução/Interpretabilidade vs Explicabilidade/imgs",
-    "Introdução/Interpretabilidade.md",
     "Introdução/Explicabilidade",
     "Introdução/Interpretabilidade vs Explicabilidade",
     "Introdução"
