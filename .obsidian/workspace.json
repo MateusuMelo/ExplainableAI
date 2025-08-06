@@ -231,7 +231,7 @@
                     "file": "roadmap.canvas",
                     "viewState": {
                       "x": -1440.0649931522935,
-                      "y": 398.0959503690997,
+                      "y": 4192.495950369099,
                       "zoom": -0.9999999999999999
                     }
                   },
@@ -254,6 +254,7 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "roadmap.canvas",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
@@ -261,7 +262,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "roadmap.canvas",
     "Pasted image 20250804105638.png",
     "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Introdução/O que são Explicações/Explicações.md",
@@ -289,7 +289,6 @@
     "Introdução/Tipos de Explicabilidade/Explicabilidade de Pré-modelagem.md",
     "Introdução/Tipos de Explicabilidade/Modelo especifico.md",
     "Introdução/Interpretabilidade vs Explicabilidade/Interpretabilidade.md",
-    "Introdução/Interpretabilidade vs Explicabilidade/Explicabilidade.md",
     "Introdução/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/O que são Explicações/Pasted image 20250730145514.png",
