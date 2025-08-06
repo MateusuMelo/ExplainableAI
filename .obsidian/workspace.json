@@ -11,17 +11,12 @@
             "id": "1e22f7445b0f4cf9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "roadmap.canvas",
-                "viewState": {
-                  "x": -1540,
-                  "y": 2363,
-                  "zoom": -2.769771739249448
-                }
+                "file": "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "roadmap"
+              "icon": "excalidraw-icon",
+              "title": "Shalpley-weather-example"
             }
           },
           {
@@ -42,16 +37,17 @@
             "id": "4204410d65279d93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Shalpley-weather-example"
+              "icon": "lucide-file",
+              "title": "Shapley paths"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,14 +221,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4204410d65279d93",
+  "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
     "Introducao/Temas Atraves da Explicabilidade/imgs/Pasted image 20250806111328.png",
-    "Drawing 2025-08-05 16.15.51.excalidraw.md",
-    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
-    "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
-    "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md",
     "roadmap.canvas",
+    "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
+    "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md",
+    "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.svg",
     "Introducao/Temas Atraves da Explicabilidade/imgs",
