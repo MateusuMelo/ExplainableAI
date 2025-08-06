@@ -200,11 +200,8 @@
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "zk-prefixer:Criar nova nota única": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
@@ -242,19 +239,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 607,
-        "y": 298,
-        "width": 1030,
-        "height": 806,
+        "x": 606,
+        "y": 297,
+        "width": 1034,
+        "height": 810,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "1e22f7445b0f4cf9",
+  "active": "52ce2fb239e734a8",
   "lastOpenFiles": [
-    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
+    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "roadmap.canvas",
     "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
