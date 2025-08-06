@@ -31,3 +31,5 @@ No exemplo de climatologia, por enquanto somente ha duas features, temperatura e
 - $P({\text{temperatura}})=2 \space inches$
 - $P({\text{cobertura de nuvens}})=5 \space inches$ 
 - $P({\text{cobertura de nuvens},\text{temperatura}})=6 \space inches$  
+
+As predições que usam todas as features do dataset é dada por $P(\text{[temperatura, cobertura de nuvens]})$, que resulta em 6 (inches) de chuva. 
