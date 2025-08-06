@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ec45ace72096bdd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shapley Values"
+            }
+          },
+          {
             "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Explicações"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e22f7445b0f4cf9",
+  "active": "ec45ace72096bdd5",
   "lastOpenFiles": [
-    "roadmap.canvas",
+    "Introdução/Temas Através da Explicabilidade/Drawing 2025-08-06 10.34.10.excalidraw.md",
     "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+    "roadmap.canvas",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
