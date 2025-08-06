@@ -28,11 +28,11 @@
             "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg"
+                "file": "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md"
               },
-              "icon": "lucide-image",
+              "icon": "excalidraw-icon",
               "title": "Shalpley-weather-example"
             }
           }
@@ -214,13 +214,16 @@
   "active": "94958bc51db8ccd7",
   "lastOpenFiles": [
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+    "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md",
+    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
+    "Introducao/Temas Atraves da Explicabilidade/imgs/Pasted image 20250806111328.png",
+    "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.svg",
+    "Introducao/Temas Atraves da Explicabilidade/imgs",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
-    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
-    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.md",
-    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg",
-    "Introducao/O que sao Explicacoes/Explicações.md",
     "Pasted image 20250804105638.png",
+    "Introducao/Visão Geral de Explicabilidade.md",
+    "Introducao/O que sao Explicacoes/Explicações.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.pdf",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.png",
@@ -238,7 +241,6 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
-    "Introducao/Visão Geral de Explicabilidade.md",
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
     "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
     "202508051605.md",
@@ -257,10 +259,8 @@
     "Introducao/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/O que são Explicações/Pasted image 20250730145514.png",
-    "Introdução/O que são Explicações/Pasted image 20250730145456.png",
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
     "Introducao/O que sao Explicacoes",
-    "Introdução/Interpretabilidade vs Explicabilidade/imgs",
-    "Introdução/Explicabilidade"
+    "Introdução/Interpretabilidade vs Explicabilidade/imgs"
   ]
 }
