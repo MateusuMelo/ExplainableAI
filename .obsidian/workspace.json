@@ -28,12 +28,14 @@
             "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.md"
+                "file": "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Shalpley-weather-example"
+              "icon": "lucide-file",
+              "title": "Shapley Values"
             }
           }
         ],
@@ -211,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94958bc51db8ccd7",
+  "active": "6b3ebfd4777e505e",
   "lastOpenFiles": [
+    "Pasted image 20250804105638.png",
     "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
@@ -233,7 +236,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Pasted image 20250804105638.png",
     "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
     "Introdução/Visão Geral de Explicabilidade.md",
