@@ -36,8 +36,8 @@ As predições que Temperaturausam todas as features do dataset é dada por $P(\
 
 ![[Pasted image 20250806111328.png]]
 
-Assim, calculamos a média das contribuições de cada *step* para cada *path*, e chegamos a um resultado de shapley para temperatura dado por : $$s(temperatura) = \frac{(6-5)+(2-0)}{2} = 1.5$$
+Assim, calculamos a média das contribuições de cada *step* para cada *path*, e chegamos a um resultado de shapley para temperatura dado por : $$s(temperatura) = \frac{(6-5)()}{2} = 1.5$$
 Utilizando da mesma abordagem pode-se calcular para o shapley de cobertura de nuvens:
 
 $$
-s(\text{cobertura de nuvens}) = \frac{(6-2)+(5-0)}{2} = 4.5 $$
+s(\text{cobertura de nuvens}) = \frac{(6-2)(5-0)}{2} =  $$
