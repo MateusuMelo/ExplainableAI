@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +230,8 @@
                   "state": {
                     "file": "roadmap.canvas",
                     "viewState": {
-                      "x": -1731.1333525272935,
-                      "y": 4287.180764822224,
+                      "x": -1440.0649931522935,
+                      "y": 4192.495950369099,
                       "zoom": -0.9999999999999999
                     }
                   },
@@ -255,9 +256,9 @@
   "lastOpenFiles": [
     "roadmap.canvas",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
+    "Pasted image 20250804105638.png",
     "Introdução/Temas Através da Explicabilidade/Feature Attributions.md",
     "Introdução/O que são Explicações/Explicações.md",
-    "Pasted image 20250804105638.png",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
     "Introdução/Visão Geral de Explicabilidade.md",
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
