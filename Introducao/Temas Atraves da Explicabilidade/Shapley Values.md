@@ -40,4 +40,5 @@ Assim, calculamos a média das contribuições de cada *step* para cada *path*, 
 Utilizando da mesma abordagem pode-se calcular para o shapley de cobertura de nuvens:
 
 $$
-s(\text{cobertura de nuvens}) = \frac{(6-2)(5-0)}{2} =  $$
+s(\text{cobertura de nuvens}) = \frac{(6-2)(5-0)}{2} = 4.5 
+$$
