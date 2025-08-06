@@ -133,7 +133,7 @@
       }
     }
   },
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "2.14.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,

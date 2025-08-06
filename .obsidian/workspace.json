@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,11 +249,11 @@
       }
     ]
   },
-  "active": "52ce2fb239e734a8",
+  "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "roadmap.canvas",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
-    "roadmap.canvas",
     "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
