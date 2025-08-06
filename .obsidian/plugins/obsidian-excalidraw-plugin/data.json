@@ -85,7 +85,7 @@
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
   "embedMarkdownCommentLinks": true,
-  "embedWikiLink": false,
+  "embedWikiLink": true,
   "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
