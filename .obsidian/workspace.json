@@ -28,12 +28,14 @@
             "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Shalpley-weather-example"
+              "icon": "lucide-file",
+              "title": "Shapley Values"
             }
           }
         ],
@@ -213,8 +215,8 @@
   },
   "active": "94958bc51db8ccd7",
   "lastOpenFiles": [
-    "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md",
+    "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
     "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Introducao/Temas Atraves da Explicabilidade/imgs/Pasted image 20250806111328.png",
