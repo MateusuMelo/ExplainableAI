@@ -11,12 +11,14 @@
             "id": "1e22f7445b0f4cf9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-08-05 16.15.51.excalidraw.md"
+                "file": "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-05 16.15.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "Shapley Values"
             }
           },
           {
@@ -207,57 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "e2083e590ba72084",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1b5e905507761523",
-        "type": "window",
-        "children": [
-          {
-            "id": "2014e5fe4e577542",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "52ce2fb239e734a8",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "roadmap.canvas",
-                    "viewState": {
-                      "x": -1440.0649931522935,
-                      "y": 4192.495950369099,
-                      "zoom": -0.9999999999999999
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "roadmap"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 606,
-        "y": 297,
-        "width": 1034,
-        "height": 810,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "roadmap.canvas",
+    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
+    "Drawing 2025-08-05 16.15.51.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "roadmap.canvas",
-    "Drawing 2025-08-05 16.15.51.excalidraw.md",
-    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
