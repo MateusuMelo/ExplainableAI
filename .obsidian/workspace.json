@@ -28,11 +28,11 @@
             "id": "94958bc51db8ccd7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg"
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-image",
               "title": "Shalpley-weather-example"
             }
           }
@@ -214,11 +214,13 @@
   "active": "94958bc51db8ccd7",
   "lastOpenFiles": [
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
+    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
+    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg",
     "Introducao/O que sao Explicacoes/Explicações.md",
     "Pasted image 20250804105638.png",
-    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.pdf",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.png",
@@ -235,13 +237,11 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Excalidraw/Drawing 2025-08-05 16.06.08.excalidraw.md",
     "Introducao/Visão Geral de Explicabilidade.md",
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
     "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
     "202508051605.md",
-    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
     "Introdução/Temas Através da Explicabilidade/figure_0202.png",
     "Sem título.canvas",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley",
