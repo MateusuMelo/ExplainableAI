@@ -192,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +253,9 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
-    "roadmap.canvas",
+    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Drawing 2025-08-05 16.15.51.excalidraw.md",
+    "roadmap.canvas",
     "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
@@ -270,7 +270,6 @@
     "Excalidraw/Drawing 2025-08-05 15.58.36.excalidraw.md",
     "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
     "202508051605.md",
-    "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introdução/Temas Através da Explicabilidade/figure_0202.png",
