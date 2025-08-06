@@ -113,7 +113,26 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Mindmap format": {
+      "MindMap Format": {
+        "value": "Excalidraw/MindMap Format",
+        "description": "This is prepared for the namespace of MindMap Format and does not need to be modified"
+      },
+      "default gap": {
+        "value": 10,
+        "description": "Interval size of element"
+      },
+      "curve length": {
+        "value": 40,
+        "description": "The length of the curve part in the mind map line"
+      },
+      "length between element and line": {
+        "value": 50,
+        "description": "The distance between the tail of the connection and the connecting elements of the mind map"
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "2.14.1",
   "showReleaseNotes": true,
@@ -122,7 +141,9 @@
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+  ],
   "customPens": [
     {
       "type": "default",
