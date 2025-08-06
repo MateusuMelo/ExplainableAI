@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiBrain",
+      "LiBadge"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +30,6 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Drawing 2025-08-05 16.15.51.excalidraw.md": "LiBrain"
 }
