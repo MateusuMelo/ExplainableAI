@@ -33,6 +33,3 @@ No exemplo de climatologia, por enquanto somente ha duas features, temperatura e
 - $P({\text{cobertura de nuvens},\text{temperatura}})=6 \space inches$  
 
 As predições que usam todas as features do dataset é dada por $P(\text{[temperatura, cobertura de nuvens]})$, que resulta em 6 (inches) de chuva.  Para calcular o shapley individualmente para a temperatura, precisamos remover a predição da cobertura de nuvens $P(\text{cobertura de nuvens})$ (5) do geral $P(\text{[temperatura, cobertura de nuvens]})$ (6), deixando apenas 1 contribuição. No entanto, esta é somente uma parte do shapley values, para computar o *path* inteiro precisamos voltar de $P(\text{Temperatura})$ para $P({})$, levando a uma contribuição de 2. 
-
-
-

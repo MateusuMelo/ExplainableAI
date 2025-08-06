@@ -37,21 +37,9 @@
               "icon": "lucide-file",
               "title": "Shapley Values"
             }
-          },
-          {
-            "id": "4ffb71ead2c9b94c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Shalpley-weather-example"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "21e9ac39a8cfab0e",
@@ -226,10 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ffb71ead2c9b94c",
+  "active": "94958bc51db8ccd7",
   "lastOpenFiles": [
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.pdf",
     "Introdução/Temas Através da Explicabilidade/Shapley Values.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.md",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.svg",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
+    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shalpley-weather-example.png",
     "roadmap.canvas",
     "Introdução/O que são Explicações/Explicações.md",
     "Introdução/Temas Através da Explicabilidade/Drawing 2025-08-06 10.34.10.excalidraw.md",
@@ -252,7 +243,6 @@
     "Excalidraw/Drawing 2025-08-05 16.05.55.excalidraw.md",
     "202508051605.md",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley paths.md",
-    "Introdução/Temas Através da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introdução/Temas Através da Explicabilidade/figure_0202.png",
     "Sem título.canvas",
     "Introdução/Temas Através da Explicabilidade/Computed Shapley",
@@ -265,7 +255,6 @@
     "Introdução/Tipos de Explicabilidade/Modelo Agnóstico.md",
     "Introdução/Tipos de Explicabilidade/Intrinsic Explainability.md",
     "Introdução/Tipos de Explicabilidade/Post Hoc Explainability.md",
-    "2025-08-01.md",
     "Introdução/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/O que são Explicações/Pasted image 20250730145514.png",
@@ -273,10 +262,7 @@
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
     "Introdução/O que são Explicações",
     "Introdução/Captura de tela_2025-07-30_12-50-58.jpg",
-    "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124855.png",
-    "Introdução/Interpretabilidade vs Explicabilidade/imgs/Pasted image 20250730124706.png",
     "Introdução/Interpretabilidade vs Explicabilidade/imgs",
-    "Introdução/Explicabilidade",
-    "Introdução/Interpretabilidade vs Explicabilidade"
+    "Introdução/Explicabilidade"
   ]
 }
