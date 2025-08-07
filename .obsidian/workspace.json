@@ -46,8 +46,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b3ebfd4777e505e",
+  "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
     "Dados Tabulares",
     "Introducao/Sem título",
