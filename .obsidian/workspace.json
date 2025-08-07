@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+                "file": "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shapley Values"
+              "title": "Modelos Substitutos"
             }
           },
           {
@@ -224,10 +224,11 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
-    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
-    "Introducao/Temas Atraves da Explicabilidade/Gradient-based.md",
     "Road_map.md",
+    "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
+    "Introducao/Temas Atraves da Explicabilidade/Gradient-based.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
+    "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Sampled Shapley.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
@@ -268,7 +269,6 @@
     "Introducao/Tipos de Explicabilidade/Explicabilidade Local.md",
     "Introducao/Tipos de Explicabilidade/Modelo especificos.md",
     "Introducao/Tipos de Explicabilidade/Modelo Agnóstico.md",
-    "Introducao/Tipos de Explicabilidade/Intrinsic Explainability.md",
     "Introducao/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
