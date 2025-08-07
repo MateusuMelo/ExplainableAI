@@ -221,8 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4204410d65279d93",
+  "active": "6b3ebfd4777e505e",
   "lastOpenFiles": [
+    "Dados Tabulares",
+    "Introducao/Sem título",
     "Road_map.md",
     "Introducao/Temas Atraves da Explicabilidade/Activation.md",
     "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
@@ -267,11 +269,9 @@
     "Introducao/Tipos de Explicabilidade/Explicabilidade Cohort.md",
     "Introducao/Tipos de Explicabilidade/Explicabilidade global.md",
     "Introducao/Tipos de Explicabilidade/Explicabilidade Local.md",
-    "Introducao/Tipos de Explicabilidade/Modelo especificos.md",
     "Introducao/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
-    "Introducao/O que sao Explicacoes",
-    "Introdução/Interpretabilidade vs Explicabilidade/imgs"
+    "Introducao/O que sao Explicacoes"
   ]
 }
