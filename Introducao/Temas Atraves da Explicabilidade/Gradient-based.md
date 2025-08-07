@@ -1,0 +1,1 @@
+O gradiente de uma função mostra como os valores daquela função mudam quando as entradas são ligeralmente alteradas. Quanto mais a predição do modelo depender de uma feature, maior sera o valor atribuído para esta feature. 

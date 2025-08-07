@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducao/Temas Atraves da Explicabilidade/Sem título.md",
+                "file": "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Shapley Values"
             }
           },
           {
@@ -224,9 +224,9 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
-    "Road_map.md",
-    "Introducao/Temas Atraves da Explicabilidade/Sem título.md",
     "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
+    "Introducao/Temas Atraves da Explicabilidade/Gradient-based.md",
+    "Road_map.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Sampled Shapley.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
