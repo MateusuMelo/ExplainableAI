@@ -11,12 +11,14 @@
             "id": "1e22f7445b0f4cf9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Road_map.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Activation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "icon": "lucide-file",
+              "title": "Activation"
             }
           },
           {
@@ -222,8 +224,9 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
-    "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
     "Road_map.md",
+    "Introducao/Temas Atraves da Explicabilidade/Activation.md",
+    "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
     "Introducao/Temas Atraves da Explicabilidade/Gradient-based.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
     "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
@@ -266,7 +269,6 @@
     "Introducao/Tipos de Explicabilidade/Explicabilidade global.md",
     "Introducao/Tipos de Explicabilidade/Explicabilidade Local.md",
     "Introducao/Tipos de Explicabilidade/Modelo especificos.md",
-    "Introducao/Tipos de Explicabilidade/Modelo Agnóstico.md",
     "Introducao/Tipos de Explicabilidade",
     "Sem título 1.canvas",
     "Introdução/Interpretabilidade vs Explicabilidade/Resumo.canvas",
