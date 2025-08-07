@@ -11,12 +11,14 @@
             "id": "1e22f7445b0f4cf9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Road_map.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           },
           {
@@ -222,13 +224,14 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "Road_map.md",
+    "Introducao/Temas Atraves da Explicabilidade/Sem título.md",
     "Introducao/Temas Atraves da Explicabilidade/Feature Attributions.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Sampled Shapley.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
     "roadmap.canvas",
-    "Road_map.md",
     "Introducao/Temas Atraves da Explicabilidade/imgs/Pasted image 20250806163234.png",
     "Pasted image 20250804105638.png",
     "Introducao/Temas Atraves da Explicabilidade/imgs/Shalpley-weather-example.md",
