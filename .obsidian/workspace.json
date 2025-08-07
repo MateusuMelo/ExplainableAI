@@ -39,12 +39,14 @@
             "id": "4204410d65279d93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Road_map.md"
+                "file": "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Sampled Shapley.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "icon": "lucide-file",
+              "title": "Sampled Shapley"
             }
           }
         ],
@@ -222,9 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee28030cc82b987",
+  "active": "4204410d65279d93",
   "lastOpenFiles": [
     "Road_map.md",
+    "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Sampled Shapley.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley paths.md",
     "Introducao/Temas Atraves da Explicabilidade/Computed Shapley/Shapley Coalitions.md",
