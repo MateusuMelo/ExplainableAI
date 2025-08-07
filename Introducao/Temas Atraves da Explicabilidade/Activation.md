@@ -1,1 +1,1 @@
-Métodos de ativação 
+Métodos de ativação focam em quais partes da arquitetura do modelo influenciam na predição, ao invés de se basear nas features. Por exempo
