@@ -1,1 +1,1 @@
-Usa de 
+Usa de versões simplistas de modelos para explicações. Representam o meio do caminho entre as explicações [[Intrinsic Explainability]] e[[Post Hoc Explainability]] 
