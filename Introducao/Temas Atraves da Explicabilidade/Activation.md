@@ -1,1 +1,1 @@
-Métodos de ativação focam em quais partes da arquitetura do modelo influenciam na predição, ao invés de se basear nas features. Por exemplo em DNN, pode ser analizada quais *layers* ou qual neurônio individual contribuiu com a saída. 
+Métodos de ativação focam em quais partes da arquitetura do modelo influenciam na predição, ao invés de se basear nas features. Por exemplo em DNN, pode ser analizada quais *layers* ou qual neurônio individual contribuiu com a saída. Procuram aplicar tecnicas 
