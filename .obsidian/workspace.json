@@ -46,7 +46,8 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e22f7445b0f4cf9",
+  "active": "4204410d65279d93",
   "lastOpenFiles": [
-    "Introducao/Temas Atraves da Explicabilidade/Activation.md",
     "Road_map.md",
+    "Introducao/Temas Atraves da Explicabilidade/Activation.md",
     "Introducao/Temas Atraves da Explicabilidade/Modelos Substitutos.md",
     "Introducao/Temas Atraves da Explicabilidade/Gradient-based.md",
     "Introducao/Temas Atraves da Explicabilidade/Shapley Values.md",
