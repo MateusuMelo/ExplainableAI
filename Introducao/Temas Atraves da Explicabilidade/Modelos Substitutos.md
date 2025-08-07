@@ -1,1 +1,2 @@
 Usa de versões simplistas de modelos para explicações. Representam o meio do caminho entre as explicações [[Intrinsic Explainability]] e [[Post Hoc Explainability]]. A principal desvantagem é que ha uma péssima performance comparada com modelo original, e atualmente não garante que todas as predições possam ser explicadas precisamente.
+Geralmente, *Surrogate* *models* possuem arquiteturas lineares, decision trees, ou baseada em regras.
