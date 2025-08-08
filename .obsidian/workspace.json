@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução/Visão Geral de Explicabilidade.md",
+                "file": "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Visão Geral de Explicabilidade"
+              "title": "Links de saída para Permutation Feature Importance in scikit-learn"
             }
           },
           {
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
