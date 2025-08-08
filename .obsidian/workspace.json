@@ -11,12 +11,14 @@
             "id": "1e22f7445b0f4cf9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Road_map.md"
+                "file": "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "icon": "lucide-file",
+              "title": "Permutation Feature Importance in scikit-learn"
             }
           },
           {
@@ -66,7 +68,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -222,14 +224,16 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "Dados Tabulares/Permutation Feature Importance.md",
+    "Road_map.md",
+    "permuation_feature_importance_0.ipynb",
+    "Dados Tabulares/exemplos/permuation_feature_importance 2.ipynb",
     "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
     "Excalidraw/Drawing 2025-08-08 12.46.05.excalidraw.md",
     "permuation_feature_importance.ipynb",
     "Dados Tabulares/exemplos/permuation_feature_importance 1.ipynb",
     "Dados Tabulares/exemplos/permuation_feature_importance.ipynb",
-    "Dados Tabulares/Permutation Feature Importance.md",
     "Dados Tabulares/exemplos",
-    "Road_map.md",
     "Introducao/Tipos de Explicabilidade/Explicabilidade de Pré-modelagem.md",
     "Introducao/Tipos de Explicabilidade/Post Hoc Explainability.md",
     "Introducao/Tipos de Explicabilidade/Modelo especificos.md",
@@ -264,10 +268,7 @@
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "202508060922.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Introdução/Temas Através da Explicabilidade/figure_0202.png",
     "Sem título.canvas",
     "Sem título 1.canvas",
