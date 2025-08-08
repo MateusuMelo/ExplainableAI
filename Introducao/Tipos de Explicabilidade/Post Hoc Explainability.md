@@ -1,3 +1,7 @@
+---
+tags:
+  - post-hoc
+---
 São explicabilidades que são geradas após o treinamento do modelo e são baseadas nas predições. Grande maioria dos modelos são difíceis  de se gerar explicabilidades intrínsecas. Podemos aplicar explicações de *posthoc* mas para regressão linear aplicar *posthoc* gera muito pouca ou nenhuma visualização de como é o funcionamento interno do modelo.
 
 Dentro das tecnicas de explicabilidade do grupo de posthoc outro fator para agrupar as tecnicas são sobre se é um [[Modelo Agnóstico]] ou [[Modelo especificos]]

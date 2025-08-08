@@ -3,6 +3,7 @@ tags:
   - post-hoc
   - global
   - model-agnostic
+  - pertubation-based
 ---
 Com o modelo devidamente treinado com os dados de treinamento, permutação de uma unica feature mede o decaimento do *score* do modelo a medida que o valor desta feature é alterado aleatoriamente. 
 Alterando aleatoriamente os valores deu uma feature, voce destroi a capacidade do modelo de fazer boas predições significativas. **Se o *score* do modelo for muito ruim mudando uma feature, então é possível dizer que aquela feature é considerada importante para as predições do modelo.** 

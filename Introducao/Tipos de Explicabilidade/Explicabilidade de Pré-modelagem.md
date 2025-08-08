@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Pre-modeling
+---
 
 Modelos dependem principalmente de dados e mesmo que muitas técnicas de explicabilidades dependem das interações com os modelos, os insights que eles criam geralmente estão relacionados com os dados e as features. Por conta disso, um dos principais estágios para se desenvolver explicabilidade de modelos começa puramente focado nos dados. ***Pré-Modeling explainability* é focado no entendimento dos dados ou das features engeneering que são usadas apra treinar um modelo de ML**
 
