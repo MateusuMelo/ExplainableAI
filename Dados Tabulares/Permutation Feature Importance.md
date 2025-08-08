@@ -14,6 +14,3 @@ Alterando aleatoriamente os valores deu uma feature, voce destroi a capacidade d
 | Facil de se implementar. Scikit-learn ja fornece funções prontas.                                         | Resultados podem ser ruins quando as features são altamente correlacionadas. **Metodo funciona com features independentes                                                                                                                                                |
 | Resultados intuitivos. Métodos de permutação de importância de features são fáceis de explicar e entender | O valor resultante para uma feature não significa o quão boa aquela feature é para prever algo mas sim o quão importante aquela feature é para a predição final gerada pelo mode                                                                                         |
 | Funcionam bem com dados tabulares (numéricos e categóricos )                                              | Os valores das importâncias permutadas depende principalmente do embaralhamento das features, e diversas maneiras de embaralhamento também, gerando resultados possivelmente diferentes. Então, é necessário rodar múltiplas vezes para ter uma resposta mais assertiva. |
-
-
-Teste 
