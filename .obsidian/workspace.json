@@ -23,12 +23,14 @@
             "id": "4b9be2ee63c54235",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Road_map.md"
+                "file": "Dados Tabulares/Permutation Feature Importance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "icon": "lucide-file",
+              "title": "Permutation Feature Importance"
             }
           },
           {
@@ -233,9 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5e44a97deb43939",
+  "active": "4b9be2ee63c54235",
   "lastOpenFiles": [
     "Road_map.md",
+    "Dados Tabulares/Permutation Feature Importance.md",
     "Introducao/Temas Atraves da Explicabilidade/Activation.md",
     "Dados Tabulares",
     "Introducao/Sem título",
