@@ -1,0 +1,1 @@
+Com o modelo devidamente treinado com os dados de treinamento, permutação de uma unica feature mede o decaimento do *score* do modelo a medida que o valor desta feature é alterado aleatoriamente. 
