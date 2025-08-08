@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
+                "file": "Dados Tabulares/Permutation Feature Importance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permutation Feature Importance in scikit-learn"
+              "title": "Permutation Feature Importance"
             }
           },
           {
@@ -224,11 +224,11 @@
   },
   "active": "1e22f7445b0f4cf9",
   "lastOpenFiles": [
+    "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
     "Dados Tabulares/Permutation Feature Importance.md",
     "Road_map.md",
     "permuation_feature_importance_0.ipynb",
     "Dados Tabulares/exemplos/permuation_feature_importance 2.ipynb",
-    "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
     "Excalidraw/Drawing 2025-08-08 12.46.05.excalidraw.md",
     "permuation_feature_importance.ipynb",
     "Dados Tabulares/exemplos/permuation_feature_importance 1.ipynb",
