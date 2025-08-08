@@ -15,4 +15,9 @@ from sklearn.model_selection import train_test_split
 
 ## Load dataset
 
-
+```python
+X = cal_housing.data 
+y = cal_housing.target 
+cal_features = cal_housing.feature_names 
+df = pd.concat((pd.DataFrame(X, columns=cal_features), pd.DataFrame({'MedianHouseVal': y})), axis=1)
+```
