@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4126ef3fecf2b190",
+        "id": "5bf99868ab3a6a0f",
         "type": "tabs",
         "children": [
           {
-            "id": "4204410d65279d93",
+            "id": "ec109d6678d4e73b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Road_map.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Road_map"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -193,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7639332cc4d0faf",
+  "active": "ec109d6678d4e73b",
   "lastOpenFiles": [
     "Road_map.md",
     "Dados Tabulares/exemplos/Permutation Feature Importance in scikit-learn.md",
